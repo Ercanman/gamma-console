@@ -1,0 +1,15 @@
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\bin\Debug\net6.0\gamma-console.exe
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\bin\Debug\net6.0\gamma-console.deps.json
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\bin\Debug\net6.0\gamma-console.runtimeconfig.json
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\bin\Debug\net6.0\gamma-console.dll
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\bin\Debug\net6.0\gamma-console.pdb
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.csproj.AssemblyReference.cache
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.AssemblyInfoInputs.cache
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.AssemblyInfo.cs
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.csproj.CoreCompileInputs.cache
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.dll
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\refint\gamma-console.dll
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.pdb
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\gamma-console.genruntimeconfig.cache
+C:\Users\ADLU01\source\repos\gamma-console\gamma-console\obj\Debug\net6.0\ref\gamma-console.dll
