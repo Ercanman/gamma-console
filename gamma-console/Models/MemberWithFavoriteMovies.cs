@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace gamma_console.Models
+﻿namespace gamma_console.Models
 {
-    internal class MemberWithFavoriteMovies
+    public class MemberWithFavoriteMovies
     {
         public Guid Id { get; set; }
         public string FullName { get; set; }

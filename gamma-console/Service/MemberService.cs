@@ -1,4 +1,5 @@
-﻿using gamma_console.Models;
+﻿using gamma_console.Client;
+using gamma_console.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,41 +12,16 @@ namespace gamma_console.Service
     {
         public List<Member> GetMemberNamesByTeam(string teamName)
         {
-            //var client = new MemberClient();
-            //var teamMembers = client.GetMembersByTeam(teamName);
-            return new List<Member>
-            {
-                new Member{Id = new Guid(), FullName = "Adam", Team = "Gamma"},
-                new Member{Id = new Guid(), FullName = "Olof", Team = "Alpha"}
-            };
+            var client = new MemberClient();
+            var teamMembers = client.GetTeamMember(teamName);
+            return teamMembers;
         }
 
         public MemberWithFavoriteMovies GetMemberById(Guid id)
         {
-            //var client = new MemberClient();
-            //var memberDetails = client.GetMemberDetails(id);
-            //return memberDetails;
-            return new MemberWithFavoriteMovies
-            {
-                Id = new Guid(),
-                FullName = "Adam",
-                Team = "Gamma",
-                FavoriteMovies = new List<Movie>
-                {
-                    new Movie
-                    {
-                        Id = "tt04568",
-                        Title = "Fargo",
-                        Year = 1997,
-                        RuntimeMinutes = 165,
-                        Genres = new List<string>
-                        {
-                            "Drama",
-                            "Action"
-                        }
-                    }
-                }
-            };
+            var client = new MemberClient();
+            var memberDetails = client.GetMember(id);
+            return memberDetails;
         }
     }
 }

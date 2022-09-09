@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace gamma_console.Models
 {
-    internal class Movie
+    public class Movie
     {
         public string Id { get; set; }
         public string Title { get; set; }
