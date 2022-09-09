@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gamma-console", "gamma-console\gamma-console.csproj", "{96FDAAE1-7A01-4AC2-A604-17DDFB2CE863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FDAAE1-7A01-4AC2-A604-17DDFB2CE863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FDAAE1-7A01-4AC2-A604-17DDFB2CE863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FDAAE1-7A01-4AC2-A604-17DDFB2CE863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FDAAE1-7A01-4AC2-A604-17DDFB2CE863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46011196-73EA-4C5D-A173-EC1CB37EE2B6}
+	EndGlobalSection
+EndGlobal
