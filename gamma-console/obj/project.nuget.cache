@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oRY5w0f8tFXWuoxxP0FBWuNzo4YLflPPgEdIWFPeV1+Lga+0L55tIXH5e40raTM64OuV5PUEg4s5pidGgM447A==",
+  "dgSpecHash": "FUH3JbflCUOkEu6bf1MVm05i8YYyWcFkh5kdOlH8k0qIa+7aY8NPuAlJm+TN0bxpC+euuRp0UOmJO/rTUDkLuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADLU01\\source\\repos\\gamma-console\\gamma-console\\gamma-console.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\FENI01\\Source\\Repos\\gamma-console\\gamma-console\\gamma-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FENI01\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

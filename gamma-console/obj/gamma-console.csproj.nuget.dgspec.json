@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADLU01\\source\\repos\\gamma-console\\gamma-console\\gamma-console.csproj": {}
+    "C:\\Users\\FENI01\\Source\\Repos\\gamma-console\\gamma-console\\gamma-console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADLU01\\source\\repos\\gamma-console\\gamma-console\\gamma-console.csproj": {
+    "C:\\Users\\FENI01\\Source\\Repos\\gamma-console\\gamma-console\\gamma-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADLU01\\source\\repos\\gamma-console\\gamma-console\\gamma-console.csproj",
+        "projectUniqueName": "C:\\Users\\FENI01\\Source\\Repos\\gamma-console\\gamma-console\\gamma-console.csproj",
         "projectName": "gamma-console",
-        "projectPath": "C:\\Users\\ADLU01\\source\\repos\\gamma-console\\gamma-console\\gamma-console.csproj",
-        "packagesPath": "C:\\Users\\ADLU01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADLU01\\source\\repos\\gamma-console\\gamma-console\\obj\\",
+        "projectPath": "C:\\Users\\FENI01\\Source\\Repos\\gamma-console\\gamma-console\\gamma-console.csproj",
+        "packagesPath": "C:\\Users\\FENI01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FENI01\\Source\\Repos\\gamma-console\\gamma-console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADLU01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FENI01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
